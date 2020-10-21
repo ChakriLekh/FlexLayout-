@@ -1,0 +1,26 @@
+.pad {
+    margin: 10px;
+    padding-bottom:10px;
+}
+
+.bar {
+    display: flex;
+  }
+
+  .search input {
+    width: 100%;
+    
+  }
+  .menu{
+      padding-right:75px;
+      border-right:1px solid #eee;
+      width:25%;
+      height: 500px;
+  }
+  .menu ul {
+      list-style-type: none;
+  }
+  .menu ul li {
+      padding:10px;
+      margin-bottom:4px;
+  }
